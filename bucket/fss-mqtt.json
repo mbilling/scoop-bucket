@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "description": "Fast, keyboard-driven MQTT v5 explorer for the terminal",
     "homepage": "https://github.com/mbilling/fss-mqtt",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mbilling/fss-mqtt/releases/download/v0.5.0/fss-mqtt-0.5.0-x86_64-pc-windows-msvc.zip",
-            "hash": "eca1b887832c9dc428f4f70b67c11537bf90c82ef84b5eb4e2a58823d36ceabb"
+            "url": "https://github.com/mbilling/fss-mqtt/releases/download/v0.6.0/fss-mqtt-0.6.0-x86_64-pc-windows-msvc.zip",
+            "hash": "5f9418f8992a751255b5e56b1d38f6be040fdb8007260470a664e2244ed12b16"
         }
     },
     "bin": "fss-mqtt.exe",
