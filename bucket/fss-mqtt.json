@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mbilling/fss-mqtt/releases/download/v0.8.0/fss-mqtt-0.8.0-x86_64-pc-windows-msvc.zip",
-            "hash": "3caef86ec5dc74a06ee458b7459b53d2d26c3ac214c21a90ebd205f22e5c4281"
+            "hash": "f965073ae51abadde9cd075cabbb2a3660f30c3fd963fec426af6f57956c7b12"
         }
     },
     "bin": "fss-mqtt.exe",
